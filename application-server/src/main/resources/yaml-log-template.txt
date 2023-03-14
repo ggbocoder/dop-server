@@ -1,3 +1,0 @@
-命名空间： <NAMESPACE>
-服务: <SERVICE>
-YAML: <YAML>
